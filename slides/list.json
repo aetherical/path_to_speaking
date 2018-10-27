@@ -40,5 +40,10 @@
     "resources.md",
     "improvisation.md",
     "be-the-best-bad-presenter-ever.md",
-    "confessions-of-a-public-speaker.md"
+    "confessions-of-a-public-speaker.md",
+    {
+        "filename": "thank-you.md",
+        "attr": {
+        }
+    }
 ]
