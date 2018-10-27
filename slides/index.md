@@ -3,7 +3,7 @@
 
 Matt Williams /
 [matt@matthewkwilliams.com](mailto:matt@matthewkwilliams.com) /
-[20 Slides](http://20slides.com)
+[https://aetherical.github.io/path_to_speaking](https://aetherical.github.io/path_to_speaking/)
 
 note:
 
