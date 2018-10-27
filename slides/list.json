@@ -25,6 +25,7 @@
     "polish.md",
     "prepare.md",
     "the-interview.md",
+    "let-s-interview-each-other.md",
     "show-and-tell.md",
     "learn-something-new.md",
     "get-ready.md",
@@ -43,7 +44,6 @@
     "confessions-of-a-public-speaker.md",
     {
         "filename": "thank-you.md",
-        "attr": {
-        }
+        "attr": {}
     }
 ]
